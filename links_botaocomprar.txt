@@ -1,0 +1,23 @@
+Links Comprar - Home
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Pulseira%20Zirconias%20por%20R$73,00%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Par%20Argola%20Gota%20por%20R$48,00%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Par%20de%20Argola%20Coração%20por%20R$69,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Anel%20Solitário%20por%20R$69,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Colar%20Coração%20por%20R$82,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+2º seção
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Trio%20de%20Brincos%20Star%20por%20R$48,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Argola%20Coração%20Torcido%20por%20R$54,00%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Brinco%20Ear%20Cuff%203%20Corações%20por%20R$36,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Argola%20Coração%20e%20Pontinhos%20de%20Luz%20por%20R$62,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Corrente%20Balão%2060cm%20por%20R$109,90%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
+
+https://api.whatsapp.com/send?phone=557196941966&text=Olá,%20Vi%20o%20produto:%20Pulseira%20Navete%20por%20R$73,00%20no%20site,%20aguardo%20mais%20informações%20pois%20tenho%20interesse.
