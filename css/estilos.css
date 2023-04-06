@@ -7,12 +7,17 @@ body{
 }
 
 .navbar {
-    background-color: #6A4547;
+    background-color: #A57678;
 }
 
 footer {
-    background-color: #6A4547;
-  }
+    background-color: #A57678;
+
+}
+
+.btn{
+    background-color: #A57678;
+}
 
 p.truncar-3l{
     display: -webkit-box;
